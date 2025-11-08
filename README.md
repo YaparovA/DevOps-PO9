@@ -1,6 +1,7 @@
 # DevOps-PO9
 
 #**Проделанная работа**
+
 1)Установлены minikube и kubectl
 <img width="693" height="334" alt="image" src="https://github.com/user-attachments/assets/8c2ae0f4-c258-45c4-97c6-50d510164a5c" />
 2)Созданы каталоги и файлы
